@@ -1,10 +1,9 @@
 # Secret Button Team
 
+## About
+Prototyping public art with remotely controlled active components.
 ## Team Details
-Participants
- *Alexa Miller
- *Matt Rohr
- *Chris Hemmerly
-
-Project Description 
-We want to create a prototype for a piece of public art that will have active components which are controlled by a button at a distance
+**Participants:**
+* Alexa Miller
+* Matt Rohr
+* Chris Hemmerly
