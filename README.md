@@ -4,6 +4,7 @@
 Prototyping public art with remotely controlled active components.
 
 Here's an email list for those interested in the project: [Sign up here](https://forms.gle/zzVSQnLrPfhfKWLBA)
+
 ## Team Details
 **Participants:**
 * Alexa Miller
